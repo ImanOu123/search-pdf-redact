@@ -1,0 +1,4 @@
+SIMPLE REGEX
+GRADE
+Grade K
+Grade 2

@@ -1,4 +1,5 @@
-ENTITY TYPE 0
+SIMPLE REGEX
+EMAIL
 simple@example.com
 very.common@example.com
 abc@example.co.uk

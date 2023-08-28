@@ -1,0 +1,5 @@
+SIMPLE REGEX
+ROOM
+Room 11
+Room 15
+Room 234
